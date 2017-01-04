@@ -1,0 +1,16 @@
+body{
+    background-color:floralwhite;
+}
+footer{
+
+    padding: 1em;
+    color: whitesmoke;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width:72%;
+    margin:auto;
+}
